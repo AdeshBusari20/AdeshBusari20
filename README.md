@@ -91,7 +91,7 @@ Git • GitHub • MySQL
 
 ### Areas of Interest
 
-Software Engineering • DSA • AI/ML • Data Science • Web Development
+Software Engineering • DSA • AI/ML • Data Science • Full Stack Development
 
 ---
 
