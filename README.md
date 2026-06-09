@@ -97,12 +97,11 @@ Software Engineering • DSA • AI/ML • Data Science • Web Development
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeshBusari20\&show_icons=true\&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=AdeshBusari20&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AdeshBusari20\&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdeshBusari20&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeshBusari20\&layout=compact\&theme=tokyonight)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeshBusari20&layout=compact&theme=tokyonight)
 ---
 
 ## ⚡ Fun Fact
