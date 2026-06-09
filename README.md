@@ -1,40 +1,110 @@
-# 💫 Hi 👋, I'm Adesh Busari  
-**A passionate Computer Science student | Aspiring Software Developer | Problem Solver from India**
+# 👋 Hi, I'm Adesh Busari
 
-Email Me 👉 ✉️ **adeshbusari@gmail.com** — I’m open to internships, projects, collaborations, or tech discussions 😊
+### 🚀 Computer Science Student | Aspiring Software Engineer | Problem Solver
+
+I'm passionate about solving real-world problems through software, algorithms, and data-driven solutions. I enjoy working on challenging projects involving Software Development, Artificial Intelligence, Machine Learning, Data Science, and Competitive Programming.
+
+🏆 1st Place Project Winner
+📊 Kaggle Competitor
+🔬 Research Internship Experience
+💻 DSA & Problem Solving Enthusiast
+
+---
+
+## 🚀 About Me
+
+* 🎓 Computer Science Student
+* 💻 Aspiring Software Engineer
+* 🧠 Passionate about Problem Solving and Data Structures & Algorithms
+* 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science
+* 🌐 Exploring Full Stack Web Development
+* 🔭 Building projects that combine software engineering and intelligent systems
 
 ---
 
-- 🔭 **I’m currently working on:** Improving my problem-solving skills through competitive coding  
-- 🌱 **I’m currently learning:** Data structures & algorithms, basic data analysis, and web development  
-- 👯 **I’m looking to collaborate on:** Student-led projects, open-source contributions, or internship opportunities  
-- 🤔 **I’m looking for help with:** Real-world projects where I can apply both coding and data skills  
-- 💬 **Ask me about:** Programming in C/C++/Java, SQL basics, and anything you're building  
-- 📫 **How to reach me:** adeshbusari@gmail.com
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I believe a good game and clean code both need great strategy.💻  
+## 🌱 Currently Learning
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adeshbusari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adeshbusari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adeshbusari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adeshbusari@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdeshBusari20&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AdeshBusari20&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeshBusari20&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AdeshBusari20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdeshBusari20&limit=5&theme=dark&combine_all_yearly_contributions=true)
+* Advanced Data Structures & Algorithms
+* System Design Fundamentals
+* Machine Learning & Data Analytics
+* Backend Development
+* Cloud Computing
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AdeshBusari20&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 Achievements
+
+* 🥇 1st Place Winner – Best Project Competition
+* 📊 Active Kaggle Competitor
+* 🔬 Research Internship in Machine Learning
+* 💻 Solving DSA and Competitive Programming Problems
+
+---
+
+## 🤝 Looking to Collaborate On
+
+* Open Source Projects
+* AI/ML Applications
+* Full Stack Web Development
+* Software Engineering Projects
+* Kaggle & Data Science Competitions
+
+---
+
+## 💬 Ask Me About
+
+* C++
+* Java
+* Python
+* SQL
+* Data Structures & Algorithms
+* Machine Learning Basics
+* Git & GitHub
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [adeshbusari@gmail.com](mailto:adeshbusari@gmail.com)
+
+💼 LinkedIn: https://linkedin.com/in/adeshbusari
+
+📸 Instagram: https://instagram.com/adeshbusari
+
+🐦 X (Twitter): https://x.com/adeshbusari
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+C • C++ • Java • Python • SQL
+
+### Web Technologies
+
+HTML • CSS • JavaScript
+
+### Tools
+
+Git • GitHub • MySQL
+
+### Areas of Interest
+
+Software Engineering • DSA • AI/ML • Data Science • Web Development
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeshBusari20\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AdeshBusari20\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeshBusari20\&layout=compact\&theme=tokyonight)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving coding challenges, building projects, and continuously learning new technologies. I believe every difficult problem becomes manageable when broken into smaller logical steps.
